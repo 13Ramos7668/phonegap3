@@ -1,0 +1,13 @@
+body{
+	text-align: center;
+	background: orange;
+	font-family: sans-serif;
+	
+}
+
+#content{
+	height: 25%;
+	background: gray;
+	cursor: pointer;
+
+}
